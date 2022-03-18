@@ -19,3 +19,14 @@
     
     Data-Driven LendingXmargin
 For Any Pool Of Capital Xmargin![image](https://user-images.githubusercontent.com/100648556/159092649-328c66f1-b98e-44bb-a7a2-177f4f1c0608.png)
+
+
+
+
+
+
+
+
+
+Figure
+Figure
