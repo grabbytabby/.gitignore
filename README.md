@@ -23,10 +23,14 @@ For Any Pool Of Capital Xmargin![image](https://user-images.githubusercontent.co
 
 
 
+Umee is a layer one blockchain for cross chain communication and interoperability, built on the Cosmos SDK and powered by Tendermint Consensus along with a self sovereign validator network.
+
+Interoperability is achieved using Inter-Blockchain Communication protocol (IBC), Gravity bridge, and decentralized infrastructure for creating a universal cross chain DeFi hub toward expanding the crypto ecosystem.
+
+A DeFi platform designed towards integrating with money legos, that interconnects crypto markets across networks, allows for the development of open finance innovation including Multi-chain Staking, Interchain Leverage, and Cross Chain Interest rates.
 
 
+https://niftys.com/
 
 
-
-Figure
-Figure
+https://mobilecoin.com/
